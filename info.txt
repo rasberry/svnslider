@@ -1,0 +1,12 @@
+revision slider
+next prev buttons
+repo path input box
+user name input box
+user pass input box
+revision start, end
+side by side panels for content
+side by side panels for log
+search input box and button
+difference up down arrows
+Show Differences Only checkbox that hides identical lines
+string compare ignore white space
